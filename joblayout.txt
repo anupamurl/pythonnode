@@ -1,0 +1,206 @@
+<div class="grid">
+    <div class="grid__col grid__col--xl-17
+        mt4
+        " role="main">
+
+<!---->
+
+      <div>
+        <div class="jobs-unified-top-card t-14 artdeco-card mb4">
+    <span class="visibility-hidden"></span>
+  <div class="relative
+      ">
+
+    <div class="p5">
+          <a href="/company/avint-llc/life/" id="ember22" class="ember-view">
+            <img width="48" src="https://media.licdn.com/dms/image/C4E0BAQFQV3m1cZ1MxQ/company-logo_100_100/0/1557218126871?e=1689811200&amp;v=beta&amp;t=rzdWdHfInmRN4nr-_mTn86dsVsnirFKyHtxqbbDDhTs" loading="lazy" height="48" alt="Avint" id="ember23" class="lazy-image ember-view EntityPhoto-square-3 mb3">
+          </a>
+
+        <h1 class="t-24 t-bold jobs-unified-top-card__job-title">IT Security Analyst</h1>
+
+      <div class="jobs-unified-top-card__primary-description">
+          <span class="jobs-unified-top-card__subtitle-primary-grouping t-black">
+            <span class="jobs-unified-top-card__company-name">
+                  <a href="/company/avint-llc/life/" id="ember24" class="ember-view t-black t-normal">
+                    Avint
+                  </a>
+            </span>
+              <span class="jobs-unified-top-card__bullet">
+                Herndon, VA
+              </span>
+
+              <span class="jobs-unified-top-card__workplace-type">On-site</span>
+          </span>
+          <span class="jobs-unified-top-card__subtitle-secondary-grouping t-black--light">
+              <span class="jobs-unified-top-card__posted-date
+                  ">
+                1 week ago
+              </span>
+<!---->          </span>
+      </div>
+
+      <div class="mt5 mb2">
+          <div class="jobs-ghost-fadein-placeholder">
+            <div class="jobs-ghost-placeholder jobs-ghost-placeholder--medium mb3"></div>
+            <div class="jobs-ghost-placeholder jobs-ghost-placeholder--medium mb3"></div>
+            <div class="jobs-ghost-placeholder jobs-ghost-placeholder--medium mb3"></div>
+            <div class="jobs-ghost-placeholder jobs-ghost-placeholder--medium"></div>
+          </div>
+      </div>
+
+      <div class="mt5">
+          <div class="display-flex">
+<!---->              <button class="jobs-save-button artdeco-button artdeco-button--3 artdeco-button--secondary" disabled="" type="button">
+<!---->    <span aria-hidden="true">
+      Save
+    </span>
+</button>
+          </div>
+
+<!---->
+<!----><!---->      </div>
+
+<!---->
+<!---->
+<!----><!---->
+<!---->    </div>
+
+<!---->
+<!---->
+    <div class="jobs-unified-top-card__buttons-container absolute">
+      <div class="display-flex flex-column">
+        <div class="display-flex justify-flex-end">
+            <div id="ember25" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+    <button aria-expanded="false" aria-label="Share" id="ember26" class="social-share__dropdown-trigger artdeco-button artdeco-button--3 artdeco-button--tertiary artdeco-button--circle artdeco-button--muted artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+      <li-icon aria-hidden="true" type="share-linkedin" class="artdeco-button__icon" size="medium"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M23 12l-4.61 7H16l4-6H8a3.92 3.92 0 00-4 3.84V17a4 4 0 00.19 1.24L5.12 21H3l-.73-2.22A6.4 6.4 0 012 16.94 6 6 0 018 11h12l-4-6h2.39z"></path>
+</svg></li-icon>
+      <span class="artdeco-button__text">Share</span>
+
+<!----></button>
+
+  <div tabindex="-1" aria-hidden="true" id="ember27" class="social-share__content text-align-left artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+</div>
+
+<div>
+
+
+<!---->
+
+
+</div>
+
+<!---->
+
+<!---->
+            <div id="ember28" class="artdeco-dropdown jobs-options artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+
+              <button aria-expanded="false" id="ember29" class="artdeco-button artdeco-button--3 artdeco-button--tertiary artdeco-button--muted artdeco-button--circle artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view" type="button" tabindex="0">
+                <li-icon aria-hidden="true" type="overflow-web-ios" class="artdeco-button__icon"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M14 12a2 2 0 11-2-2 2 2 0 012 2zM4 10a2 2 0 102 2 2 2 0 00-2-2zm16 0a2 2 0 102 2 2 2 0 00-2-2z"></path>
+</svg></li-icon>
+                <span class="artdeco-button__text">
+                  Show more options
+                </span>
+
+<!----></button>
+
+  <div tabindex="-1" aria-hidden="true" id="ember30" class="artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--has-arrow artdeco-dropdown__content--arrow-right artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><!----></div>
+</div>
+        </div>
+<!---->      </div>
+    </div>
+  </div>
+<!----></div>
+<!---->
+<!---->
+<!---->      </div>
+
+<!---->
+        <div class="jobs-box--fadein jobs-box--full-width jobs-box--with-cta-large jobs-description
+     jobs-description--is-truncated jobs-description--is-truncated-poster
+
+
+     artdeco-card mb4
+
+    ">
+
+<!---->
+  <article class="jobs-description__container
+      jobs-description__container--condensed">
+    <div class="jobs-description__content jobs-description-content
+        jobs-description__content--condensed">
+      <div class="jobs-box__html-content jobs-description-content__text t-14 t-normal
+          jobs-description-content__text--stretch" id="job-details" tabindex="-1">
+        <h2 class="text-heading-large mb4">
+          About the job
+        </h2>
+
+<!---->
+<!---->        <span>
+                  Avint LLC is seeking a motivated and skilled <strong>IT Security Analyst</strong> to join our team in the Herndon, VA area. The IT Security Analyst will plan, implement, upgrade, and monitor security protocols for the protection of the organization’s computer networks and information.<br>
+<br>
+The candidate will be responsible for conducting vulnerability scans and recognizing vulnerabilities in security systems. The IT Security Analyst will also be able to apply cybersecurity and privacy principles to organizational requirements relevant to confidentiality, integrity, availability, and authentication.<br>
+<br>
+<strong>Position Responsibilities:<br>
+</strong><ul><li>Collaborates with users to discuss computer data access needs, to identify security threats and violations, and to identify and recommend needed programming or process changes. </li><li>Uses data encryption, firewalls, and other appropriate security tools and applications to conceal and protect transfers of confidential digital information. </li><li>Develops and implements plans to safeguard digital data from accidental or unauthorized modification, destruction, or disclosure; adheres to emergency data processing needs. </li><li>Reviews violations of security procedures; provides training to ensure violations do not recur. </li><li>Monitors and restricts access to sensitive, confidential, or other high-security data. </li><li>Modify security files and applications as able and necessary to provide specialized access, allow new software to be installed or integrated, or correct errors. </li><li>Performs risk assessments, audits, and tests to ensure proper functioning of data processing activities and security measures. </li><li>Safeguards system security and improves overall server and network efficiency by training users and promoting security awareness. </li><li>Determines when to update virus protection systems by monitoring current reports of computer viruses; facilitates or performs needed updates. </li><li>Performs other related duties as assigned <br>
+<br>
+</li></ul><strong>Requirements<br>
+<br>
+</strong><strong>Technical Qualifications:<br>
+</strong><ul><li>Demonstrated problem-solving and analytical skills</li><li>Proficient, or able to gain proficiency with, a broad array of security software applications and tools</li><li>Knowledgeable in NIST 800-53 </li><li>Thorough understanding of computer-related security systems including firewalls, encryption, and password protection and authentication</li><li>Proficient in Microsoft Office Suite or related software</li><li>Excellent verbal and written communication skills</li><li>Organized with attention to detail<br>
+<br>
+</li></ul><strong>Qualifications:<br>
+</strong><ul><li>Bachelor in related field or 2 years of experience</li><li>2+ years of relevant experience in information assurance, cyber security, or information technology </li><li>Experience with the cyber security tool, CyberSecurity Assest Management (CSAM) is desired </li><li>Experience with Microsoft Azure and Amazon Web Service (AWS) </li><li>Experience with Splunk. </li><li>Be knowledgeable in how to put artifacts together to demonstrate justifications on POA&amp;Ms for submission to the ISSMs/RTPD Security and for input into CSAM/relay to the Security ISSO. </li><li>Knowledge of the IT cybersecurity related Federal and Department directives policies and provide guidance/assistance to the Government in meeting those policies and directives  </li><li>Individual contributor </li><li>Performs tasks with increasing levels of difficulty with less oversight and direction from others </li><li>Demonstrates initiative to build expertise within an assigned functional area </li><li>Demonstrates strong communication skills, oral and written </li><li>Serves as an Avint brand ambassador </li><li>Always embodies Avint's core values <br>  
+<br>
+</li></ul><i>Must be eligible to obtain a clearance or hold an active Public Trust, Secret or Top Secret Clearance<br>
+<br>
+</i><strong>Benefits<br>
+<br>
+</strong>Joining Avint is a win-win proposition! You will feel the personal touch of a small business and receive BIG business benefits. From competitive salaries, full health, and generous PTO and Federal Holidays. Additionally, we encourage every Avint employee to further their professional development. To assist you in achieving your goals, we offer reimbursement for courses, exams, and tuition. Interested in a class, conference, program, or degree? Avint will invest in YOU and your professional development!<br>
+<br>
+<i>Avint is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity and Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class.</i>
+<!---->        </span>
+      </div>
+<!---->      <div class="jobs-description__details">
+          <div class="pt3">
+            <div class="jobs-ghost-fadein-placeholder">
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--x-small jobs-ghost-placeholder--thick mb2"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--small jobs-ghost-placeholder--thick mb5"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--x-small jobs-ghost-placeholder--thick mb2"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--small jobs-ghost-placeholder--thick mb5"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--x-small jobs-ghost-placeholder--thick mb2"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--small jobs-ghost-placeholder--thick mb5"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--x-small jobs-ghost-placeholder--thick mb2"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--small jobs-ghost-placeholder--thick mb5"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--x-small jobs-ghost-placeholder--thick mb2"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--small jobs-ghost-placeholder--thick mb5"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--x-small jobs-ghost-placeholder--thick mb2"></div>
+  <div class="jobs-ghost-placeholder jobs-ghost-placeholder--small jobs-ghost-placeholder--thick mb5"></div>
+</div>
+          </div>
+      </div>
+    </div>
+  </article>
+    <footer class="artdeco-card__actions">
+      <button aria-label="Click to see more description" aria-expanded="false" id="ember31" class="t-14 t-black--light t-bold artdeco-card__action artdeco-button artdeco-button--icon-right artdeco-button--3 artdeco-button--fluid artdeco-button--tertiary ember-view">  <li-icon aria-hidden="true" type="chevron-down" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M1 5l7 4.61L15 5v2.39L8 12 1 7.39z"></path>
+</svg></li-icon>
+
+      <aside class="grid__col grid__col--xl-7 right-rail" role="presentation">
+<!---->
+<!---->      </aside>
+  </div>
+
+  <div id="ember35" class="ember-view"><!----></div>
+
+<div id="ember36" class="ember-view"><div id="ember37" class="ember-view"><!----></div></div>
+
+  <div id="ember38" class="ember-view"><!----></div>
+
+<!---->
+<!---->
+<!---->
+    <div>
+    <div id="ember39" class="ember-view"><!----></div>
+</div>

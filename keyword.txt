@@ -1,0 +1,2860 @@
+
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card job-search-card--active" data-entity-urn="urn:li:jobPosting:3555806011" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="sPeEaYLHpqRc8/9MP4O85A==" data-column="1" data-row="1" data-visible-time="1681579972110" data-largest-intersection-ratio="1">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/it-security-analyst-at-avint-3555806011?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=sPeEaYLHpqRc8%2F9MP4O85A%3D%3D&amp;position=1&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        IT Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="" aria-busy="false" src="https://media.licdn.com/dms/image/C4E0BAQFQV3m1cZ1MxQ/company-logo_100_100/0/1557218126871?e=2147483647&amp;v=beta&amp;t=AezGLzZ9Rlim3og_G8JSIjzsfy8TqdDj5CepyzjAVws">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        IT Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/avint-llc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Avint
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Herndon, VA
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-04-03">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3532959943" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="Dadtk5aohybrwOUHypgcxg==" data-column="1" data-row="2" data-visible-time="1681579972110" data-largest-intersection-ratio="1">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3532959943?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=Dadtk5aohybrwOUHypgcxg%3D%3D&amp;position=2&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="" aria-busy="false" src="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            New York, United States
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-21">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3525016161" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="hozromjSfDWmjNNIBAZ3YA==" data-column="1" data-row="3" data-visible-time="1681579972110" data-largest-intersection-ratio="1">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/information-security-analyst-at-horizon-staffing-2003-3525016161?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=hozromjSfDWmjNNIBAZ3YA%3D%3D&amp;position=3&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Information Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="" aria-busy="false" src="https://media.licdn.com/dms/image/C4E0BAQFc7dtm8rUyWg/company-logo_100_100/0/1674430882195?e=2147483647&amp;v=beta&amp;t=P4ozDZ2Jl49JY50fSCvwt6WRanWU4NsDqE8mrtotTTE">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Information Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/horizon-staffing-2003?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Horizon Staffing 2003
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Harrisburg, PA
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-03-13">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3502361023" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="vNbOQtBHSwwBzxULVqbWtw==" data-column="1" data-row="4" data-visible-time="1681579972110" data-largest-intersection-ratio="1">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3502361023?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=vNbOQtBHSwwBzxULVqbWtw%3D%3D&amp;position=4&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="" aria-busy="false" src="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            San Diego, CA
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-01">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3539703946" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="Y7qb04QsFSRy4fRui1suQg==" data-column="1" data-row="5" data-visible-time="1681579972110" data-largest-intersection-ratio="1">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3539703946?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=Y7qb04QsFSRy4fRui1suQg%3D%3D&amp;position=5&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="" aria-busy="false" src="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Seattle, WA
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon lazy-loaded" data-svg-class-name="result-benefits__icon-svg" aria-hidden="true" aria-busy="false"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" focusable="false" class="result-benefits__icon-svg lazy-loaded" aria-busy="false">
+<path d="M14.7 10H17L11.5 18L8 14.5L9.3 13.2L11.2 15.1L14.7 10ZM20 3V19C20 20.7 18.7 22 17 22H7C5.3 22 4 20.7 4 19V3H9.7L10.2 2C10.6 1.4 11.2 1 12 1C12.7 1 13.4 1.4 13.8 2L14.3 3H20ZM18 5H15.4L16 6.1V7H8V6.1L8.6 5H6V19C6 19.6 6.4 20 7 20H17C17.6 20 18 19.6 18 19V5Z" fill="currentColor"></path>
+</svg></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-26">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3514323671" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="TwZnreH4ESH7Af87WXp7rA==" data-column="1" data-row="6" data-visible-time="1681579972110" data-largest-intersection-ratio="1">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3514323671?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=TwZnreH4ESH7Af87WXp7rA%3D%3D&amp;position=6&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="" aria-busy="false" src="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Boston, MA
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-09">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3570365712" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="UZWQHQ4c87VHDsgdOAslQQ==" data-column="1" data-row="7" data-visible-time="1681579972110" data-largest-intersection-ratio="0.4788896441459656">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cybersecurity-support-analyst-at-tdi-tetrad-digital-integrity-3570365712?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=UZWQHQ4c87VHDsgdOAslQQ%3D%3D&amp;position=7&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cybersecurity Support Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4 lazy-loaded" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="" aria-busy="false" src="https://media.licdn.com/dms/image/C560BAQHOS9V2d2LX0w/company-logo_100_100/0/1603892115839?e=2147483647&amp;v=beta&amp;t=IStBjcI7BCUuaSRc_4zsayR6tUuG6It7IFxRiwRKWwo">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cybersecurity Support Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/tetrad-digital-integrity-llc-tdi?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            TDI (Tetrad Digital Integrity)
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Norfolk, VA
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate--new" datetime="2023-04-14">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      23 hours ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3563414608" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="Vp2h2jJ7HU9PgzjE/D3bVQ==" data-column="1" data-row="8">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cybersecurity-analyst-at-mcnc-3563414608?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=Vp2h2jJ7HU9PgzjE%2FD3bVQ%3D%3D&amp;position=8&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cybersecurity Analyst 
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQE_Ydu5VhN6QA/company-logo_100_100/0/1584113799738?e=2147483647&amp;v=beta&amp;t=BnNKCWMWkTstQBmX09FcdRB81sMSxa19KCUP-dUMCKI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cybersecurity Analyst 
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/mcnc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            MCNC
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Durham, NC
+          </span>
+
+          <span class="job-search-card__salary-info">$71,000 - $78,000</span>
+
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-04-12">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 days ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3516886838" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="xcSxi+YqhzxiW94vi5o1mA==" data-column="1" data-row="9">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3516886838?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=xcSxi%2BYqhzxiW94vi5o1mA%3D%3D&amp;position=9&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            San Diego, CA
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-11">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3537689717" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="sTljZGVaNBiH0PufGSKoow==" data-column="1" data-row="10">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3537689717?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=sTljZGVaNBiH0PufGSKoow%3D%3D&amp;position=10&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Los Angeles, CA
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-24">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3539710184" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="GVDkOm8l2oRmhv9Jn2RlSQ==" data-column="1" data-row="11">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3539710184?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=GVDkOm8l2oRmhv9Jn2RlSQ%3D%3D&amp;position=11&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            New York, United States
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-26">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3555950569" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="cI+bmwDNOyQLFY3G8gjSpw==" data-column="1" data-row="12">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/infosec-analyst-at-sago-3555950569?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=cI%2BbmwDNOyQLFY3G8gjSpw%3D%3D&amp;position=12&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        InfoSec Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQFGwY83ayJgng/company-logo_100_100/0/1677684803190?e=2147483647&amp;v=beta&amp;t=wPzNrWuYlRExbE2EBRnGbuJLuoyrcXSVtOQZeBB1iLI" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        InfoSec Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/sago-mrx?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Sago
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            United States
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-04-04">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 week ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3514051249" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="v+uO4yxL/XwnTbaIom8QAw==" data-column="1" data-row="13">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3514051249?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=v%2BuO4yxL%2FXwnTbaIom8QAw%3D%3D&amp;position=13&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            San Francisco, CA
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-08">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3479432381" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="9tf40a3wZJNvY/ERpTKB2g==" data-column="1" data-row="14">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/remote-it-security-analyst-at-stellar-professionals-3479432381?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=9tf40a3wZJNvY%2FERpTKB2g%3D%3D&amp;position=14&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Remote: IT Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQGveZ81BUBqcg/company-logo_100_100/0/1607348675025?e=2147483647&amp;v=beta&amp;t=gUe03J4QJPPGcwV-QRWeKfYaYNrTikSm0kpZEjK7nEk" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Remote: IT Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/stellar-professionals?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Stellar Professionals
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            United States
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-13">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3536163881" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="4RKZmihTNDEEsBOKCVdNXQ==" data-column="1" data-row="15">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3536163881?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=4RKZmihTNDEEsBOKCVdNXQ%3D%3D&amp;position=15&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Boston, MA
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-23">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3568835577" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="x/Lhf+RxmtAvxVlIak0dXw==" data-column="1" data-row="16">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/threat-analyst-tier-1-at-redacted-3568835577?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=x%2FLhf%2BRxmtAvxVlIak0dXw%3D%3D&amp;position=16&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Threat Analyst, Tier 1
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQG_Mq84bt7veQ/company-logo_100_100/0/1584128959718?e=2147483647&amp;v=beta&amp;t=fZzmSbIWWRB4A0WC6fACvj4r_1kwZWTQ-AbqCae_BWQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Threat Analyst, Tier 1
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/redacted?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            [redacted]
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Austin, TX
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-04-13">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 day ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3502355480" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="Tr7J/nRBewVN4XaBEs6XJw==" data-column="1" data-row="17">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3502355480?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=Tr7J%2FnRBewVN4XaBEs6XJw%3D%3D&amp;position=17&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            San Francisco, CA
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-01">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3501486320" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="4abxL31vNQnGvSeZR1AW8w==" data-column="1" data-row="18">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/it-security-analyst-at-stellar-professionals-3501486320?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=4abxL31vNQnGvSeZR1AW8w%3D%3D&amp;position=18&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        IT Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQGveZ81BUBqcg/company-logo_100_100/0/1607348675025?e=2147483647&amp;v=beta&amp;t=gUe03J4QJPPGcwV-QRWeKfYaYNrTikSm0kpZEjK7nEk" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        IT Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/stellar-professionals?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Stellar Professionals
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Atlanta, GA
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-13">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3502357286" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="wtvaownp7sQf/yqMiTCXXg==" data-column="1" data-row="19">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-experfy-3502357286?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=wtvaownp7sQf%2FyqMiTCXXg%3D%3D&amp;position=19&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQG4JiOTwM6MIQ/company-logo_100_100/0/1519904723718?e=2147483647&amp;v=beta&amp;t=yEB7iznoRKdeena4GLWpRZlIqfANRI3oe_Hrc33d8E8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/experfy?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Experfy
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Seattle, WA
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-01">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3556886638" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="brJHWDipln5fpbOm5bX/Pw==" data-column="1" data-row="20">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-sourcebooks-3556886638?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=brJHWDipln5fpbOm5bX%2FPw%3D%3D&amp;position=20&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQEpu12yY8yLbw/company-logo_100_100/0/1519856533082?e=2147483647&amp;v=beta&amp;t=OXZPXL6HrtGkljHa9wkWYJyuAoq3GXYTRrnt2z41CPQ" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/sourcebooks?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Sourcebooks
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Chicago, IL
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/ee2elqv6ktdjhlrxiyhac6py6" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Be an early applicant
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-03-10">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 month ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3543073368" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="EayKB9Z+TnVucuUh1JzMnA==" data-column="1" data-row="21">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/it-security-analyst-at-nksfb-3543073368?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=EayKB9Z%2BTnVucuUh1JzMnA%3D%3D&amp;position=21&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        IT Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C560BAQErE5z13aC7kw/company-logo_100_100/0/1582671460615?e=2147483647&amp;v=beta&amp;t=TkO-9n4VOu_oGOc6izE9xfEU200M88UrUxlfndqIJLg" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        IT Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/nksfb?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            NKSFB
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Westwood, CA
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-03-25">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3479441539" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="yBuEGkcEv3NXSWbsrOf9SQ==" data-column="1" data-row="22">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/it-security-analyst-at-software-technology-inc-3479441539?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=yBuEGkcEv3NXSWbsrOf9SQ%3D%3D&amp;position=22&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        IT SECURITY ANALYST
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQFKznTk0ymPgw/company-logo_100_100/0/1614344295838?e=2147483647&amp;v=beta&amp;t=6wvwq2oMn9p62Okw5Lvk7ww8O4JvX3StvhuPbjgPwHA" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        IT SECURITY ANALYST
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/software-technology-inc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Software Technology Inc.
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            United States
+          </span>
+
+<!---->
+          <div class="job-search-card__benefits">
+            
+                      
+    
+    
+    
+    
+
+    <div class="result-benefits">
+      <icon class="result-benefits__icon" data-delayed-url="https://static.licdn.com/aero-v1/sc/h/1pwj7aot6lxrfhr9sdta6cnxw" data-svg-class-name="result-benefits__icon-svg"></icon>
+      <span class="result-benefits__text">
+         Actively Hiring
+<!---->      </span>
+    </div>
+  
+                  
+          </div>
+
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-02-13">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 months ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3539372052" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="Y8T89OYWwvRWvIzGDAhCgw==" data-column="1" data-row="23">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/cyber-security-analyst-at-jcs-solutions-llc-3539372052?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=Y8T89OYWwvRWvIzGDAhCgw%3D%3D&amp;position=23&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Cyber Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQHSrlpiGQQ1wQ/company-logo_100_100/0/1640811221549?e=2147483647&amp;v=beta&amp;t=OM8PQjbK0RHvJx11ykHuVB9ckahczOj1t0oOMkCB2xw" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Cyber Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/jcs-solutions-llc?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            JCS Solutions LLC
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Bethesda, MD
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-03-22">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      3 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3564921091" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="x5P3SUdvQ7WnDAH9fLeBQQ==" data-column="1" data-row="24">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/remote-security-governance-analyst-at-stellar-professionals-3564921091?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=x5P3SUdvQ7WnDAH9fLeBQQ%3D%3D&amp;position=24&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Remote-Security governance analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4E0BAQGveZ81BUBqcg/company-logo_100_100/0/1607348675025?e=2147483647&amp;v=beta&amp;t=gUe03J4QJPPGcwV-QRWeKfYaYNrTikSm0kpZEjK7nEk" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Remote-Security governance analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/stellar-professionals?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Stellar Professionals
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Richmond, VA
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-04-13">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      1 day ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+              <li>
+                
+
+    
+
+    
+    
+    
+      <div class="base-card relative w-full hover:no-underline focus:no-underline base-card--link base-search-card base-search-card--link job-search-card" data-entity-urn="urn:li:jobPosting:3547248123" data-search-id="oDxQzKwH8vflo7D+IXCr8g==" data-tracking-id="VUZ1h0dlUxw3adtEeq6Qiw==" data-column="1" data-row="25">
+        
+
+        <a class="base-card__full-link absolute top-0 right-0 bottom-0 left-0 p-0 z-[2]" href="https://www.linkedin.com/jobs/view/information-security-analyst-at-fawkes-idm-3547248123?refId=oDxQzKwH8vflo7D%2BIXCr8g%3D%3D&amp;trackingId=VUZ1h0dlUxw3adtEeq6Qiw%3D%3D&amp;position=25&amp;pageNum=0&amp;trk=public_jobs_jserp-result_search-card" data-tracking-control-name="public_jobs_jserp-result_search-card" data-tracking-client-ingraph="" data-tracking-will-navigate="">
+          
+          <span class="sr-only">
+              
+        
+        Information Security Analyst
+      
+      
+          </span>
+        </a>
+
+      
+        
+    <div class="search-entity-media">
+        
+      <img class="artdeco-entity-image artdeco-entity-image--square-4
+          " data-delayed-url="https://media.licdn.com/dms/image/C4D0BAQGcbs4nNdsnHg/company-logo_100_100/0/1519905396423?e=2147483647&amp;v=beta&amp;t=QDLQmkv95ak3P5A7iCiQsQbp5ScBP3zlas8jw-FBBU8" data-ghost-classes="artdeco-entity-image--ghost" data-ghost-url="https://static.licdn.com/aero-v1/sc/h/9a9u41thxt325ucfh5z8ga4m8" alt="">
+  
+    </div>
+  
+
+        <div class="base-search-card__info">
+          <h3 class="base-search-card__title">
+            
+        Information Security Analyst
+      
+          </h3>
+
+            <h4 class="base-search-card__subtitle">
+              
+          <a class="hidden-nested-link" data-tracking-client-ingraph="" data-tracking-control-name="public_jobs_jserp-result_job-search-card-subtitle" data-tracking-will-navigate="" href="https://www.linkedin.com/company/fawkes-idm?trk=public_jobs_jserp-result_job-search-card-subtitle">
+            Fawkes IDM 
+          </a>
+      
+            </h4>
+
+<!---->
+            <div class="base-search-card__metadata">
+              
+          <span class="job-search-card__location">
+            Washington, DC
+          </span>
+
+<!---->
+<!---->
+<!---->
+          <time class="job-search-card__listdate" datetime="2023-03-28">
+            
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+      2 weeks ago
+  
+          </time>
+
+<!---->      
+            </div>
+        </div>
+<!---->      
+    
+      </div>
+  
+  
+  
+  
+              </li>
+          
