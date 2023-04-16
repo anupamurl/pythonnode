@@ -23,11 +23,10 @@ output = json.loads(server.text)
 
 my_list = []
      #login Wiht id   
-driver.get('https://www.linkedin.com')
-driver.find_element_by_pro('xcoJPARJg9creFi').click_pro()
-driver.find_element_by_pro('ISw3KbGf_HX0PLb').type('8595704389')
+driver.get('https://www.linkedin.com') 
+driver.find_element_by_pro('ISw3KbGf_HX0PLb').type('mailsofmanisha@yahoo.com')
 driver.switch_to.active_element.type('Tab')
-driver.find_element_by_pro('bWpxjgudeyUVu7V').type('Payal@209')    
+driver.find_element_by_pro('bWpxjgudeyUVu7V').type('Anupam@294')    
 driver.switch_to.active_element.type('Enter') 
 
  
@@ -53,8 +52,16 @@ for index, item in enumerate(output):
    my_list.append(json.loads(response.text))
    
    driver.get(my_list[index]['clink']+"/about") 
-   aboutsrc = driver.find_element_by_class_name('org-page-details-module__card-spacing').get_attribute('innerHTML') 
-   my_list[index]['about'] = aboutsrc
+   
+   #aboutsrc = driver.find_element_by_class_name('org-page-details-module__card-spacing').get_attribute('innerHTML') 
+   
+   aboutsrc = WebDriverWait(driver, 10).until(
+     EC.presence_of_element_located((By.CLASS_NAME, "org-page-details-module__card-spacing"))
+     )
+      
+      
+   
+   my_list[index]['about'] = aboutsrc.get_attribute('innerHTML') 
    driver.get(my_list[index]['clink']+"/people/?keywords=ceo") 
    element = WebDriverWait(driver, 10).until(
      EC.presence_of_element_located((By.CLASS_NAME, "org-people-profile-card__card-spacing"))
