@@ -1,17 +1,14 @@
+import os
 import requests
 import json
 
 
-with open('finaldata.txt') as f:
-    src = f.read()   
-
-url = 'http://localhost:3000/d'
-form_data = {'htmldata': src  }
-server = requests.post(url, data=form_data)
-output = json.loads(server.text)  
-
-print("---------------")
-print(output)
-print("---------------")
-
-
+with open('data.txt') as f:
+    src = f.read()    
+ 
+    url = 'http://localhost:3000/d'
+    newd  = { 'htmldata' : os.getcwd()+"/data.txt"  } 
+  
+    server = requests.post(url, data=newd)
+    output = json.loads(server.text)   
+    print(output)

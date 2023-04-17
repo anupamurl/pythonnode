@@ -17,6 +17,7 @@ const common_1 = require("@nestjs/common");
 const app_service_1 = require("./app.service");
 const node_html_parser_1 = require("node-html-parser");
 const { htmlToText } = require('html-to-text');
+const fs = require("fs");
 let AppController = class AppController {
     constructor(appService) {
         this.appService = appService;
@@ -49,15 +50,14 @@ let AppController = class AppController {
     }
     async getCompanyDetails(message) {
         let info = {};
-        console.log('-----------------------------------');
-        console.log(message.htmldata);
-        console.log('-----------------------------------');
-        var root = (0, node_html_parser_1.parse)(message.htmldata);
+        let text = fs.readFileSync(message.htmldata, { encoding: 'utf8', flag: 'r' });
+        var root = (0, node_html_parser_1.parse)(text);
         info['aboutcompnay'] = (root.querySelector('.break-words.white-space-pre-wrap')) ? root.querySelector('.break-words.white-space-pre-wrap').innerText : "No Info";
         info['website'] = htmlToText(root.querySelector('.link-without-visited-state .link-without-visited-state').innerText);
         root.querySelectorAll("dl.overflow-hidden dt").forEach((node, index) => {
             info[htmlToText(node.rawText)] = root.querySelectorAll('dl.overflow-hidden dd')[index].innerText;
         });
+        info['alldetail'] = root.querySelector('dl.overflow-hidden').innerText;
         info['ceodata'] = [];
         root.querySelectorAll(".org-people-profile-card__profile-card-spacing").forEach((node, index) => {
             let obj = {

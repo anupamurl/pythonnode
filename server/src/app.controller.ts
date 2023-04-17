@@ -1,8 +1,13 @@
 import { Body, Controller, Get, Post } from '@nestjs/common';
 import { AppService } from './app.service';
 import { parse } from 'node-html-parser';
+ 
 import { json } from 'stream/consumers';
 const { htmlToText } = require('html-to-text');
+import { join } from 'path';
+import fs = require('fs');
+import path = require('path');
+
 
 @Controller()
 export class AppController {
@@ -65,18 +70,23 @@ export class AppController {
     let info = {
 
     }
-    console.log('-----------------------------------')
-    console.log(message.htmldata)
-    console.log('-----------------------------------')
+ 
+
+   
+   
+   let text =  fs.readFileSync(message.htmldata,       {encoding:'utf8', flag:'r'} );
 
 
-    var root = parse(message.htmldata);
+
+    var root = parse(text);
 
     info['aboutcompnay'] = (root.querySelector('.break-words.white-space-pre-wrap'))? root.querySelector('.break-words.white-space-pre-wrap').innerText : "No Info"
     info['website'] = htmlToText(root.querySelector('.link-without-visited-state .link-without-visited-state').innerText)
     root.querySelectorAll("dl.overflow-hidden dt").forEach((node, index) => {
       info[htmlToText(node.rawText)] = root.querySelectorAll('dl.overflow-hidden dd')[index].innerText
     })
+
+    info['alldetail'] = root.querySelector('dl.overflow-hidden').innerText
 
     info['ceodata'] = [];
 

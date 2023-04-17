@@ -1,3 +1,4 @@
+import os
 import requests
 import json
 from selenium_pro import webdriver
@@ -69,17 +70,26 @@ for index, item in enumerate(output):
    companyCeos = element.get_attribute('innerHTML') 
    my_list[index]['ceos'] = companyCeos
    
+   with open("daatanew.txt",'w') as fil:
+    fil.write( str(  my_list ))
+
    
    url = 'http://localhost:3000/d'
-   newd = {'htmldata': my_list[index]  } 
-   print('-----------------------------------')
-   print(newd)
-   print('-----------------------------------')
+   
+   
+  #  newd = {'htmldata': my_list[index]  } 
+  #  j = json.dumps(newd) 
+  #  print(j)
+
+   newd  = { 'htmldata' : os.getcwd()+"/daatanew.txt"  } 
+
    server = requests.post(url, data=newd)
    output = json.loads(server.text)     
    my_list[index].update(output)   
    if index == 0:    
-    break
+    with open("final.txt",'w') as fil:
+       fil.write(str(my_list) )
+       break
      
 
      
